@@ -1,1 +1,2 @@
-hola amigos 
+Esta es la línea modificada.
+Esta es una línea añadida al archivo.
