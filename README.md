@@ -1,13 +1,13 @@
 # Portafolio de evidencias de programacion basica 3pm
 Las actividades de programación básica
-
+C:\Users\santi\OneDrive\Documentos\GitHub\PROGBAS-FCFM-LEONARDO\100ejercicios\ejercicio4.py
 - [Semana 1](./100ejericicios%201/)
     - [Programa 1](./100ejericicios%201/ejericicio1)
     - [Programa 2](./100ejericicios%201/ejericicio2)
     - [Programa 3](./100ejericicios%201/ejericicio3)
     - [Programa 4](./100ejericicios%201/ejericicio4)
     - [Programa 5](./100ejericicios%201/ejericicio5)
-    - [Programa 6](./100ejericicios%201/ejericicio6)
+    - [Programa 6](.\PROGBAS-FCFM-LEONARDO\100ejercicios201%\ejercicio6.py)
     - [Programa 7](./100ejericicios%201/ejericicio7)
     - [Programa 8](./100ejericicios%201/ejericicio8)
     - [Programa 9](./100ejericicios%201/ejericicio9)
