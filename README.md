@@ -2,7 +2,7 @@
 Las actividades de programación básica
 
 - [Semana 1](./100ejericicios%201/)
-    - [Programa 1](./100ejercicios/ejercicio1.py%201)
+    - [Programa 1](./100ejercicios%201/ejercicio1.py)
     - [Programa 2](./100ejericicios%201/ejericicio2)
     - [Programa 3](./100ejericicios%201/ejericicio3)
     - [Programa 4](./100ejericicios%201/ejericicio4)
