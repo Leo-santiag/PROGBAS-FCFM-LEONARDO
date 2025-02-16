@@ -1,17 +1,24 @@
 
-print("definir si una palabra es palindromo")
-palabra= input("ingresa una palabra")
+print("Saber si una palabra es un palíndromo")
+palabra = input("Ingrese una palabra para iniciar la verificación: ")
+Tamaño = len(palabra)
+print(Tamaño)
+i = 0
+z = -1
+es_palindromo = True
 
-palabrainvertida = ""
-cont = len(palabra)
-while cont > 0:
+while (Tamaño / 2) > i:
+    print("llega hasta aqui")
+    if palabra[i] != palabra[z]:
+        es_palindromo = False
+        break
     
-    palabrainvertida += palabra[cont - 1]
-    print(palabrainvertida)
-    
-    cont = cont - 1
-if palabra == palabrainvertida:
-    print(" es un palindromo")
+    print(palabra[i])
+    print(palabra[z])
+    i += 1
+    z -= 1
+
+if es_palindromo:
+    print("es un palíndromo")
 else:
-    print("no es un palindromo")
-
+    print("no es un palíndromo")
