@@ -36,15 +36,3 @@ Las actividades de programación básica
     - [Programa 30](./100ejericicios%201/ejericicio30)
 
 
-
-|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-|[Problema 1](./100Problemas/Problema1.py)|[Problema 2](./100Problemas/Problema2.py)|[Problema 3](./100Problemas/Problema3.py)|[Problema 4](./100Problemas/Problema4.py)|  
-|               |               |               |               |               |               |               |               |               |               |
-|               |               |               |               |               |               |               |               |               |               |
-|               |               |               |               |               |               |               |               |               |               |
-|               |               |               |               |               |               |               |               |               |               |
-|               |               |               |               |               |               |               |               |               |               |
-|               |               |               |               |               |               |               |               |               |               |
-|               |               |               |               |               |               |               |               |               |               |
-|               |               |               |               |               |               |               |               |               |               |
-|               |               |               |               |               |               |               |               |               |               |
