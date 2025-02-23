@@ -28,11 +28,11 @@ Las actividades de programación básica
     - [Programa 22](./100ejercicios/ejercicio22.py)
     - [Programa 23](./100ejercicios/ejercicio23.py)
     - [Programa 24](./100ejercicios/ejercicio24.py)
-    - [Programa 25](./100ejercicios/ejercicio25)
-    - [Programa 26](./100ejercicios/ejercicio26)
-    - [Programa 27](./100ejercicios/ejercicio27)
-    - [Programa 28](./100ejercicios/ejercicio28)
-    - [Programa 29](./100ejercicios/ejercicio29)
-    - [Programa 30](./100ejercicios/ejercicio30)
+    - [Programa 25](./100ejercicios/ejercicio25.py)
+    - [Programa 26](./100ejercicios/ejercicio26.py)
+    - [Programa 27](./100ejercicios/ejercicio27.py)
+    - [Programa 28](./100ejercicios/ejercicio28.py)
+    - [Programa 29](./100ejercicios/ejercicio29.py)
+    - [Programa 30](./100ejercicios/ejercicio30.py)
 
 
